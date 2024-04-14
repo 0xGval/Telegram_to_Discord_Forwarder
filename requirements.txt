@@ -1,0 +1,4 @@
+telethon
+aiohttp
+requests
+dotenv
